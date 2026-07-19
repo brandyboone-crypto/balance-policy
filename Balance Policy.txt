@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Balance Checker - Privacy Policy & Terms</title>
+</head>
+<body>
+<h1>Balance Checker</h1>
+
+<h2>Privacy Policy</h2>
+<p>No mobile information will be shared with third parties or affiliates for marketing or promotional purposes. All other categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.</p>
+<p>Message frequency varies based on user requests.</p>
+<p>Message and data rates may apply.</p>
+
+<h2>Terms and Conditions</h2>
+<p>By texting this number, you agree to receive automated replies containing account balance information. Reply STOP to opt out at any time. This is a personal-use service, not a commercial product.</p>
+
+</body>
+</html>
